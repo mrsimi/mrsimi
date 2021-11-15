@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My name is Simi. I am a Software Engineer from Nigeria. Background in Mechanical Engineering looking into a future in Robotics building lot of them. And I love tinkering stuffs.
+
+[![Header](https://github.com/mrsimi/mrsimi/blob/main/header_image.png "Header")](https://some-url.dev/)
+
+My name is Simi. 
+I am a Software Engineer from Nigeria. 
+Background in Mechanical Engineering looking into a future in Robotics building lot of them. 
+And I love tinkering stuffs.
 
 <!--
 **mrsimi/mrsimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
